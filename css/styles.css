@@ -23,7 +23,6 @@ button {
 
 a {
   text-decoration: none;
-  cursor: pointer;
 }
 
 ul {
@@ -496,12 +495,6 @@ fill: #f4f4fd;
 }
 
 /*---------- Icons fethures----------*/
-
-.feathures-icon-list {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
-}
 
 .feathures-icon-container {
   display: flex;
